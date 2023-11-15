@@ -1,4 +1,8 @@
 # notes_app
+# screenshot
+![Screenshot 2023-11-15 203554](https://github.com/bikashparida/Note-App/assets/125130144/3446aa35-9e67-4107-9e58-b55c6fdd2210)
+![Screenshot 2023-11-15 203617](https://github.com/bikashparida/Note-App/assets/125130144/463ffcca-29b6-4f42-b5ec-3d7b09c750aa)
+![Screenshot 2023-11-15 203641](https://github.com/bikashparida/Note-App/assets/125130144/ca0b5946-6340-4201-ab1e-e6ee78a220b2)
 
 A new Flutter project.
 
